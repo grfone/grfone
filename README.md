@@ -50,11 +50,11 @@ I enjoy building systems that transform large biological datasets into practical
 
 ## 🎓 Education
 
-| Degree | Institution | Year |
-|---|---|---|
-| **PhD in Artificial Intelligence** | Universidad CEU San Pablo | 2023 – 2027 |
-| **Master's in Artificial Intelligence** | Universidad Internacional de La Rioja | — |
-| **Master's in Integrative Synthetic Biology** | CIB Margarita Salas (CSIC) | — |
+| Degree | Institution |
+|---|---|
+| **PhD in Artificial Intelligence** | Universidad CEU San Pablo |
+| **Master's in Artificial Intelligence** | Universidad Internacional de La Rioja |
+| **Master's in Integrative Synthetic Biology** | Universidad Internacional Menéndez Pelayo |
 
 **PhD focus:** Foundation models, self-supervised learning, molecular representation learning and agentic AI systems for biomedical discovery.
 
