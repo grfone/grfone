@@ -2,7 +2,7 @@
 
 # Guillermo Ramajo Fernández
 
-**AI Research Scientist · PhD Candidate in Artificial Intelligence**
+**AI Research Scientist**
 
 *Building machine learning systems and foundation models for computational biology and drug discovery.*
 
