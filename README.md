@@ -24,8 +24,7 @@ I am an AI Research Scientist and PhD candidate in Artificial Intelligence at **
 I enjoy building systems that transform large biological datasets into practical tools that help researchers make better decisions and accelerate scientific discovery.
 
 - 🧠 **Research interests:** Foundation Models · Self-Supervised Learning · Molecular Representation Learning · Agentic AI · Drug Discovery
-- 🎓 **Background:** Physics → Synthetic Biology (CIB Margarita Salas, CSIC) → Artificial Intelligence
-- 📍 **Based in:** Madrid, Spain
+- 🎓 **Background:** Physics | Synthetic Biology | Artificial Intelligence
 
 ---
 
